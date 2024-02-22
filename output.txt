@@ -5,3 +5,13 @@
 5 5 5 5 5 
 The number is: 6 and its word form is: six
 Hello:1
+printing some element of the list: 1
+Iterating the arraylist 1 3
+Iterating the arraylist 2 3
+Iterating the arraylist 3 3
+
+After removing an element, printing the list:
+
+Iterating the arraylist after removal 1
+Iterating the arraylist after removal 3
+size 2

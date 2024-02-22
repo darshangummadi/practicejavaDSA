@@ -60,5 +60,25 @@ public static void main(String[] args) {
          String value1 = pair1.getValue();
         System.out.println(value1+":"+key1);
 
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+        list.add(1);
+        list.add(2);
+        list.add(3);
+
+        System.out.println("printing some element of the list: " + list.get(0));
+        
+        for (int num : list){
+            System.out.println("Iterating the arraylist " + num +" " +list.size());
+        }
+
+        list.remove(1);
+        System.out.println("\nAfter removing an element, printing the list:\n");
+        for (int num : list){
+            System.out.println("Iterating the arraylist after removal " + num);
+        }
+        System.out.println("size " + list.size());
      }
 }
+
