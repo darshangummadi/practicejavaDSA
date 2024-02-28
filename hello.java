@@ -1,6 +1,3 @@
-import java.util.Scanner;
-import java.util.Map;
-import java.util.AbstractMap;
 import java.util.*;
 class hello {
     static void pattern1(int N)
@@ -39,14 +36,26 @@ class hello {
         }
     }
 
+    static int count_digits(int n)
+    {
+       int x = n; int count =0;
+       while( x!=0 ) 
+      {
+          x = x / 10;
+          count++;
+      }
+       return count;
+    } 
+
 public static void main(String[] args) {
 
          Scanner scanner =  new Scanner(System.in);
          int N  = scanner.nextInt();
          // Here, we have taken the value of N as 5.
          // We can also take input from the user.
-         pattern4(N);
+         count_digits(N);
          scanner.close();
+         System.out.println("Number of Digits in " + N + " is " +count_digits(N));
 
 
          Map.Entry<Integer,String> pair = new AbstractMap.SimpleEntry<>(6,"six");
