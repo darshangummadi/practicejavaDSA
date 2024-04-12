@@ -1,0 +1,110 @@
+/*Scanner sc = new Scanner(System.in);
+        String s = sc.next();
+        
+        //pre computing
+        int[] hash = new int[256];
+        for (int i = 0; i < s.length() ; i++) {
+            hash[s.charAt(i)]++;
+        }
+
+        int q = sc.nextInt();
+        while (q-->0){
+            char c = sc.next().charAt(0);
+            System.out.println(hash[c]);
+        }
+
+
+        for (int i = n-1;i>=0;i--){
+            for (int j=0;j<=i-1;j++){
+                if  (arr[j] > arr[j+1]){
+                    int temp = arr[j+1];
+                    arr[j+1] = arr[j];
+                    arr[j] = temp;
+                }
+            }
+        }
+        System.out.println("\nAfter Bubble Sort:");
+        for  (int i = 0; i < n; i++){
+            System.out.print(arr[i]+ " ");
+        }
+
+
+        sc.close();
+        int arr[] ={10,5,10,15,10,5};
+      int n = arr.length;
+      countFreq(arr, n);
+        Scanner  sc = new Scanner(System.in);
+        int t = sc.nextInt();
+        printFirstNPrimes(t);
+        sc.close();
+
+
+
+        int arr[] = {13, 46, 24, 52, 20, 9, 78};
+        int n = arr.length;
+        /*System.out.println("Before selection sort");
+        for (int i =0;i<n;i++){
+            System.out.print(arr[i] + " ");
+        }
+        //System.out.println();
+        insertion_sort(arr, n); 
+        
+
+        //Scanner s = new Scanner(System.in);
+		//int n = s.nextInt();
+        //int q = s.nextInt(); 
+        //s.close();
+
+        int n = 15;
+        int q = 2;
+        long result = sumOrProduct(n, q);
+        System.out.println("Result: " + result);
+        long modulo = (long) Math.pow(10, 9) + 7;
+        long hello = 479001600 * 13;
+        long output = hello  % modulo;
+        System.out.println(modulo + " print before "+ hello + " after " +output);*/
+
+
+        foundit
+        darshan.java84@gmail.com
+        5V$uPrQy8$KxKE5
+        
+        monster
+        darshan.java84@gmail.com
+        5V$uPrQy8$KxKE5
+
+
+
+Sr java full stack developerSr java full stack developer
+AT&T · ContractAT&T · Contract
+Aug 2023 - Present · 8 mosAug 2023 - Present · 8 mos
+Texas, United StatesTexas, United States
+• I am involved from the Business discussion to enhance the sales and provide flexibility to customer by implementing the initiatives /enhancements suggested by business.
+• Extensively worked on Responsive Web Design (RWD) page development using HTML5, CSS3, JQuery, ReactJS, and JSON.
+• Enhanced PostgreSQL security by implementing role-based access control, SSL encryption, and regular security audits, ensuring data protection and compliance
+• Managed and maintained OSS for telephone network, ensuring system reliability and performance
+• Developed RESTful API for assessment indicators module and token-based authentication for RESTful services using Spring Security.
+• Worked with App owners and helped them to run apps on Cloud Environment like Pivotal Cloud Foundry (PCF) and make sure that all of them are up and running
+• Used Spring MVC module to develop MVC Architecture.
+• Involved designing in webpages using HTML5,CSS3, JavaScript, Bootstrap, SASS,LESS, React.js, Redux, Flex.
+• Used Log 4J to log messages depending on the messages type and level.
+• Worked with services like EC2, Lamba, SES, SNS, VPC, CloudFront, CloudFormation etc.
+• Used MAVEN for compilation and building JAR, WAR and EAR files.
+• Experience working with enterprise development environments and tools including - Git, Jenkins, CI/CD, JUnit, JIRA/Confluence, SonarQube, Checkmarx, NexusIQ, Maven.
+• RDBMS experience includes Oracle, SQL Server, database programming and connectivity using JDBC, ODBC, SQL, PL/SQL, Stored Procedures, triggers, Queries.• I am involved from the Business discussion to enhance the sales and provide flexibility to customer by implementing the initiatives /enhancements suggested by business. • Extensively worked on Responsive Web Design (RWD) page development using HTML5, CSS3, JQuery, ReactJS, and JSON. • Enhanced PostgreSQL security by implementing role-based access control, SSL encryption, and regular security audits, ensuring data protection and compliance • Managed and maintained OSS for telephone network, ensuring system reliability and performance • Developed RESTful API for assessment indicators module and token-based authentication for RESTful services using Spring Security. • Worked with App owners and helped them to run apps on Cloud Environment like Pivotal Cloud Foundry (PCF) and make sure that all of them are up and running • Used Spring MVC module to develop MVC Architecture. • Involved designing in webpages using HTML5,CSS3, JavaScript, Bootstrap, SASS,LESS, React.js, Redux, Flex. • Used Log 4J to log messages depending on the messages type and level. • Worked with services like EC2, Lamba, SES, SNS, VPC, CloudFront, CloudFormation etc. • Used MAVEN for compilation and building JAR, WAR and EAR files. • Experience working with enterprise development environments and tools including - Git, Jenkins, CI/CD, JUnit, JIRA/Confluence, SonarQube, Checkmarx, NexusIQ, Maven. • RDBMS experience includes Oracle, SQL Server, database programming and connectivity using JDBC, ODBC, SQL, PL/SQL, Stored Procedures, triggers, Queries.
+The Depository Trust & Clearing Corporation (DTCC) logo
+Full-stack DeveloperFull-stack Developer
+The Depository Trust & Clearing Corporation (DTCC) · ContractThe Depository Trust & Clearing Corporation (DTCC) · Contract
+Jan 2022 - Jul 2023 · 1 yr 7 mosJan 2022 - Jul 2023 · 1 yr 7 mos
+California, United States · RemoteCalifornia, United States · Remote
+• Demonstrated extensive proficiency in Java technologies, including Core Java, JDBC, Java Message Service, JSP, Servlets, JPA, EJB, Swing, Applets, and JSTL.
+• Developed engaging and user-friendly web interfaces using HTML5, CSS3, Angular, and Bootstrap, ensuring an immersive and visually appealing user experience. Implemented Angular components, integrated data binding, and incorporated asynchronous features to enhance interactivity and responsiveness.
+• Utilized Angular CLI and Node Package Manager (NPM) to streamline the development of dynamic user interfaces, facilitating efficient development and deployment processes. Employed standard JSF tags and CSS styling to create JSP pages, ensuring uniform and intuitive user interfaces.
+• Led the development of a customer-facing web application using Java, Ruby on Rails, and Vue.js, ensuring smooth user experiences and responsive design.
+• Enhanced the data management layer by integrating Hibernate with Spring Boot, streamlining database interactions for seamless data processing and storage.
+• Proficient in developing server-side JavaScript frameworks with Node.js (Express.js), enabling the creation of web applications with an event-driven, non-blocking I/O architecture.
+• Implemented authentication and authorization mechanisms following industry best practices to bolster security using Spring Security and JWT.
+• Developed robust backend functionalities with Django and Flask frameworks, managing RESTful APIs for efficient frontend and backend communication.
+• Utilized core J2EE design patterns such as MVC, DI/IOC, DAO, Factory, Business delegate, Service Locator, and Singleton for project implementation.
+• Managed Spring components including Dispatcher Servlet, Controllers, Model and View Objects, and View Resolver.
+• Proficient in handling complex SQL queries, stored procedures, and joins in Oracle SQL and MySQL, ensuring optimized database operations.      
