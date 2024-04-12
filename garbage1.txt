@@ -4,22 +4,22 @@ darshan2096@outlook.com
 bitfan-4jYcfy-qihbud
 
 1. reverse a string in Java
-2. ﻿﻿﻿swap two numbers with and without using a third variable in Java
-3. ﻿﻿﻿Java program to check if a vowel is present in a string
-4. ﻿﻿﻿Java program to check if the given number is a prime number
-5. ﻿﻿﻿Java program to print a Fibonacci sequence using recursion
-6. ﻿﻿﻿check whether a string is a palindrome in Java
-7. ﻿﻿﻿sort an array in Java in descending & Ascending.
-8. ﻿﻿﻿find the factorial of an integer in Java
-9. ﻿﻿﻿Remove all duplicates in the given String
-10. ﻿﻿﻿﻿Java program to check if the given number is a Odd or Even number
-11. ﻿﻿﻿﻿Reverse the Number
-12. ﻿﻿﻿﻿Count number of digit
-13. ﻿﻿﻿﻿Check Armstrong or not
-14. ﻿﻿﻿﻿Remove duplicates in the Array
-15. ﻿﻿﻿﻿Count of each character in the String
-16. ﻿﻿﻿﻿Reverse each word in the given String
-17. ﻿﻿﻿﻿Star pattern problem - left, right & pyramid
-18. ﻿﻿﻿﻿Reverse the Array
-19. ﻿﻿﻿﻿Sum of digit
-20. ﻿﻿﻿﻿First occurrence in a string
+2. swap two numbers with and without using a third variable in Java
+3. Java program to check if a vowel is present in a string
+4. Java program to check if the given number is a prime number
+5. Java program to print a Fibonacci sequence using recursion
+6. check whether a string is a palindrome in Java
+7. sort an array in Java in descending & Ascending.
+8. find the factorial of an integer in Java
+9. Remove all duplicates in the given String
+10.Java program to check if the given number is a Odd or Even number
+11.Reverse the Number
+12.Count number of digit
+13.Check Armstrong or not
+14.Remove duplicates in the Array
+15.Count of each character in the String
+16.Reverse each word in the given String
+17.Star pattern problem - left, right & pyramid
+18.Reverse the Array
+19.Sum of digit
+20.First occurrence in a string
