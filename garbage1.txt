@@ -1,7 +1,4 @@
 
-darshan2096@outlook.com
-
-bitfan-4jYcfy-qihbud
 
 1. reverse a string in Java
 2. swap two numbers with and without using a third variable in Java
